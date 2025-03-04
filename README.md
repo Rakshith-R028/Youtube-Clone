@@ -25,6 +25,7 @@ The project consists of a single HTML file and associated CSS styles. You can vi
 _*No additional software or configuration is needed to run the project since it’s a static HTML/CSS implementation.*_
 
 ***Future Development***
+
 This project represents the starting page and can be extended further with:
 - JavaScript functionality
 - Integration with a backend for dynamic content
